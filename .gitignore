@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large/generated data
+data/raw*/
+data/raw_*/
+data/probability_tables/
+data/probability_walkforward/
+data/final_strategy_backtests*/
+data/walkforward_*/
+data/fixed_bucket*/
+data/*_smoke*/
+
+# Generated reports / heavy exports
+reports/**/*.html
+reports/**/*.pdf
+reports/**/*.png
+
+# Logs
+*.log
