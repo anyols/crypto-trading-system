@@ -111,8 +111,7 @@ The notebook includes:
 - limitations,
 - final conclusion.
 
-The committed notebook is stripped of outputs to keep the repository lightweight.
-
+Link to notebook in html: https://anyols.github.io/crypto-trading-system/
 ---
 
 ## Installation
